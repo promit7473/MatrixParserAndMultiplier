@@ -1,4 +1,4 @@
-# Install script for directory: /home/mhpromit7473/CLionProjects/matrix_multiplier
+# Install script for directory: /home/mhpromit7473/MatrixParserAndMultiplier
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/mhpromit7473/CLionProjects/matrix_multiplier/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/mhpromit7473/MatrixParserAndMultiplier/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
