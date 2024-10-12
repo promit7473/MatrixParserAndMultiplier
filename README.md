@@ -17,5 +17,5 @@ Saves the result matrix to an output file (matrixoutput.txt).
   2. Compile the program using a C++ compiler
   
 <p align="center">
-  <img src="images/ZoUDJ.gif" alt="Demo GIF" width="500">
+  <img src="images/ZoUDJ.gif" alt="Demo GIF" width="500" style="border-radius: 15px;">
 </p>
