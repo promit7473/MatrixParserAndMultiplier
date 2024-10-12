@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mhpromit7473/CLionProjects/matrix_multiplier/cmake-build-debug"
+			"value" : "/home/mhpromit7473/MatrixParserAndMultiplier/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mhpromit7473/CLionProjects/matrix_multiplier/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/mhpromit7473/MatrixParserAndMultiplier/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mhpromit7473/CLionProjects/matrix_multiplier"
+			"value" : "/home/mhpromit7473/MatrixParserAndMultiplier"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1163,7 +1163,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mhpromit7473/CLionProjects/matrix_multiplier/cmake-build-debug"
+			"value" : "/home/mhpromit7473/MatrixParserAndMultiplier/cmake-build-debug"
 		},
 		{
 			"name" : "matrix_multiplier_IS_TOP_LEVEL",
@@ -1187,7 +1187,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mhpromit7473/CLionProjects/matrix_multiplier"
+			"value" : "/home/mhpromit7473/MatrixParserAndMultiplier"
 		}
 	],
 	"kind" : "cache",

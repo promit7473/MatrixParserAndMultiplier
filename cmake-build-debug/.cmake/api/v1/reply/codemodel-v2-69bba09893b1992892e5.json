@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/mhpromit7473/CLionProjects/matrix_multiplier/cmake-build-debug",
-		"source" : "/home/mhpromit7473/CLionProjects/matrix_multiplier"
+		"build" : "/home/mhpromit7473/MatrixParserAndMultiplier/cmake-build-debug",
+		"source" : "/home/mhpromit7473/MatrixParserAndMultiplier"
 	},
 	"version" : 
 	{

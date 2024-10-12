@@ -105,6 +105,26 @@ int main() {
                 }
                 std::cout << std::endl;
             }
+
+            // open a file for outputting the matrix
+            std::ofstream outputfile;
+            outputfile.open ("matrixoutput.txt");
+
+            // output the matrix to the file
+            if (outputfile.is_open()) {
+                for (int row = 0; row < result_matrix.size(); row++) {
+                    for (int column = 0; column < result_matrix[row].size(); column++) {
+                        if (column != result_matrix[row].size() - 1) {
+                            outputfile << result_matrix[row][column] << ", ";
+                        }
+                        else {
+                            outputfile << result_matrix[row][column];
+                        }
+                    }
+                    outputfile << std::endl;
+                }
+            }
+            outputfile.close();
         }
         else {
             std::cout << "Dimension error" << std::endl;
@@ -113,5 +133,6 @@ int main() {
     } else {
         std::cout << "Unable to open file";
     }
+    
     return 0;
 }
