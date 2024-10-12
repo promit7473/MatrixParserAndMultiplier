@@ -15,3 +15,7 @@ Saves the result matrix to an output file (matrixoutput.txt).
 # How to Use
   1. Place your input matrices in matrix1.txt and matrix2.txt files.
   2. Compile the program using a C++ compiler
+  
+<p align="center">
+  <img src="images/ZoUDJ.gif" alt="Demo GIF" width="500">
+</p>
