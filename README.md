@@ -13,3 +13,7 @@ Prints the result matrix to the console.
 # How to Use
   1. Place your input matrices in input1.txt and input2.txt files.
   2. Compile the program using a C++ compiler
+  
+<p align="center">
+  <img src="images/ZoUDJ.gif" alt="Demo GIF" width="500" style="border-radius: 15px;">
+</p>
