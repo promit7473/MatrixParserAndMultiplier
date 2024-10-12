@@ -7,7 +7,7 @@ This repository contains a C++ program that reads, parses, and multiplies two ma
 Reads two matrices from text files (matrix1.txt and matrix2.txt).
 Parses the text files to create two 2D vectors representing the matrices.
 Multiplies the matrices if their dimensions are compatible.
-Prints the result matrix to the console.
+Prints the result matrix to the console and the result get saved into the outputfile.txt
 
 
 # How to Use
