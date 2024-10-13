@@ -8,4 +8,5 @@ add_executable(
         main.cpp
         cmake-build-debug/input1.txt
         cmake-build-debug/input2.txt
+        cmake-build-debug/matrixoutput.txt
 )
